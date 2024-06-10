@@ -1,14 +1,14 @@
 <template >
     <div :class="`flex flex-row p-2 border-2 rounded-md h-96 max-h-fit w-64 min-w-64 max-w-64 mx-1 my-2 mx-2 ${style} transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300`">
         <div class="bg-tris-soft dark:bg-tris-dim rounded-md p-2" >
-            <h2 class="uppercase">{{ title }}</h2>
             <div class="flex flex-colubm justify-center items-center ">
                 <div class="">
-                    <img class="rounded-full bg-transparent size-48 max-w-48 max-h-48" :src="`/images/${image1}.png`">
-                </div>
+                    <img class="rounded-full bg-transparent size-52 max-w-52 max-h-52" :src="`/images/${image1}.png`">
+                    </div>
             </div>
+            <h2 class="uppercase">{{ title }}</h2>
            <div class="text-left pt-1 pb-2">
-                <p class="text-sm break-words">{{ description }}</p>
+                
                 <p class="py-1 text-sm break-words" >{{ ingredients }}</p>
                 <p class="py-1 text-sm break-words">{{ price }}</p>
             </div>

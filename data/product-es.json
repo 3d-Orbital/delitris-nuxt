@@ -144,7 +144,7 @@
         "productType":"Horneado",
         "style":"ring-2 hover:ring-4 ring-red-300 dark:ring-red-600",
         "background":"",
-        "image1":["rienda2-min",""],
+        "image1":"Brownies-HV4-min",
         "image2":"",
         "imageBack":"Logo-Delitris-Circle",
         "value":""
@@ -160,7 +160,7 @@
         "productType":"Horneado",
         "style":"ring-2 hover:ring-4 ring-red-300 dark:ring-red-600",
         "background":"",
-        "image1":["rienda2-min",""],
+        "image1":"dognauts-HV5-min",
         "image2":"",
         "imageBack":"Logo-Delitris-Circle",
         "value":""
@@ -179,7 +179,7 @@
         "productType":"Congelado",
         "style":"ring-2 hover:ring-4 ring-red-300 dark:ring-red-600",
         "background":"",
-        "image1":["rienda2-min",""],
+        "image1":"empanaditas2-HC1(2)-min",
         "image2":"",
         "imageBack":"back3-min",
         "value":""
@@ -195,7 +195,7 @@
         "productType":"Congelado",
         "style":"ring-2 hover:ring-4 ring-red-300 dark:ring-red-600",
         "background":"",
-        "image1":["rienda2-min",""],
+        "image1":"pet-zzas2-HC2-min",
         "image2":"",
         "imageBack":"back3-min",
         "value":""
@@ -211,7 +211,7 @@
         "productType":"Congelados",
         "style":"ring-2 hover:ring-4 ring-red-300 dark:ring-red-600",
         "background":"",
-        "image1":["rienda2-min",""],
+        "image1":"tamales-HC3-min",
         "image2":"",
         "imageBack":"back3-min",
         "value":""
